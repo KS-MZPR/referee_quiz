@@ -1889,7 +1889,7 @@ e)	Opis sytuacji w protokole.
 a)	Powtórzyć rzut karny dla drużyny A.
 b)	Rzut wolny dla drużyny B.
 c)	Rzut od bramki dla drużyny B.
-14.18	Zawodnik A3 jest gotowy do wykonania rzutu karnego. Sędzia z pola gry gwiżdże, ale A2 upuszcza piłkę na parkiet. B3 natychmiast podnosi piłkę i zagrywa nią do B2, który zdobywa bramkę w kontrataku. Prawidłowa decyzja?
+14.18	Zawodnik A2 jest gotowy do wykonania rzutu karnego. Sędzia z pola gry gwiżdże, ale A2 upuszcza piłkę na parkiet. B3 natychmiast podnosi piłkę i zagrywa nią do B2, który zdobywa bramkę w kontrataku. Prawidłowa decyzja?
 a)	Bramka dla drużyny B.
 b)	Powtórzyć rzut karny.
 c)	Rzut wolny dla drużyny B.
