@@ -1724,7 +1724,7 @@ e)	Bramkarz nie może zdobyć bramki bezpośrednio rzutem od bramki.
 f)	W trakcie wykonywania rzutu od bramki bramkarz nie może dotykać linii pola bramkowego
 13.1	Rzut wolny dla drużyny A. Zanim A5 udaje się zebrać piłkę, B6 podnosi ją z ziemi i trzymając ją pod pachą biegnie w stronę swojej bramki. Po kilku krokach toczy ją z powrotem w stronę A5. Prawidłowa decyzja?
 a)	2-minutowe wykluczenie dla B6.
-b)	Powtórzyć rzut wolny dla drużyny A po sygnale gwizdkiem.
+b)	Rzut wolny dla drużyny A po sygnale gwizdkiem.
 c)	Upomnienie dla B6
 d)	Brak reakcji
 e)	Zatrzymanie czasu gry.
