@@ -1088,7 +1088,7 @@ a)	Rzut wolny dla drużyny A
 b)	2-minutowe wykluczenie dla B5
 c)	Dyskwalifikacja dla B5 (czerwona kartka pokazana przez sędziów)
 d)	Opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
-8.10	Zawodnik kołowy A9 dostaje podanie kiedy znajduje się sam na linii pola bramkowego drużyny B. W momencie rzutu jest pociągnięty z tyłu za rękę przez B2. Prawidłowa decyzja?
+8.10	Zawodnik kołowy A9 dostaje podanie kiedy znajduje się sam przy linii pola bramkowego drużyny B. W momencie rzutu jest pociągnięty z tyłu za rękę przez B2. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny A
 b)	Rzut karny dla drużyny A
 c)	2-minutowe wykluczenie dla B2
