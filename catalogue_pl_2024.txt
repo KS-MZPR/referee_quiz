@@ -978,7 +978,7 @@ e)	Żadna z wymienionych akcji
 a)	Jeśli tendencja do gry pasywnej zostanie stwierdzona, sygnalizację gry pasywnej rozpoczyna sędzia za bramką. Następnie sędzia na boisku również rozpoczyna sygnalizację 17
 b)	Jeśli drużyna znajdująca się w posiadaniu piłki prosi o przerwę dla drużyny po tym jak został już pokazany sygnał ostrzegawczy o grze pasywnej, to sygnał ten musi być ponownie pokazany po wznowieniu gry
 c)	Jeśli drużyna znajdująca się w posiadaniu piłki nie podejmuje wyraźnych starań w celu zdobycia bramki po pokazaniu sygnału ostrzegawczego o grze pasywnej, to jeden z sędziów zarządza rzut wolny z powodu gry pasywnej
-d)	Po pokazaniu sygnału ostrzegawczego o grze pasywnej, sędziowie powinni zarządzić rzut wolny z powodu gry pasywnej najpóźniej po wykonaniu przez drużynę czterech podań
+d)	Po pokazaniu sygnału ostrzegawczego o grze pasywnej, sędziowie powinni zarządzić rzut wolny z powodu gry pasywnej przy braku rzutu na bramkę najpóźniej po wykonaniu przez drużynę czterech podań
 7.26	Drużyna A opóźnia wykonanie rzutu rozpoczynającego grę. Drużyna ta była już wcześniej upomniana słownie za takie taktyczne zagranie. Prawidłowa decyzja?
 a)	Brak reakcji
 b)	Zatrzymanie czasu gry; rzut rozpoczynający grę po sygnale gwizdkiem
