@@ -880,7 +880,7 @@ a)	1
 b)	3
 c)	0
 d)	2
-7.5	Zawodnik A4 wyskakuje, żeby złapać piłkę podaną przez zawodnika ze swojej drużyny. Następnie stawia najpierw lewą nogę, a następnie staje na prawej, aby oddać rzut. Ile kroków wykonał A4?
+7.5	Zawodnik A4 wyskakuje, żeby złapać piłkę podaną przez zawodnika ze swojej drużyny. Ląduje na prawej nodze. Następnie stawia najpierw lewą nogę, a następnie staje na prawej, aby oddać rzut. Ile kroków wykonał A4?
 a)	3
 b)	2
 c)	1
