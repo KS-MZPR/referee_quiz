@@ -2050,7 +2050,7 @@ c)	Powtórzyć rzut wolny dla drużyny A po sygnale gwizdkiem.
 a)	Brak reakcji.
 b)	Powtórzyć rzut wolny dla drużyny A po sygnale gwizdkiem sędziego.
 c)	Powtórzyć rzut wolny dla drużyny A po sygnale gwizdkiem sędziego; kara progresywna dla B3.
-15.6	Drużyna B jest gotowa do wykonania rzutu wolnego bez sygnału gwizdka. Zawodnik B8 wykonuje rzut obiema stopami i lewą ręką w kontakcie z podłogą. B6 otrzymuje piłkę i zdobywa bramkę. Jaka jest właściwa decyzja?
+15.26	Drużyna B jest gotowa do wykonania rzutu wolnego bez sygnału gwizdka. Zawodnik B8 wykonuje rzut obiema stopami i lewą ręką w kontakcie z podłogą. B6 otrzymuje piłkę i zdobywa bramkę. Jaka jest właściwa decyzja?
 a)	Bramka dla drużyny B.
 b)	Korekta, powtórzenie rzutu wolnego po sygnale gwizdkiem sędziego.
 c)	Rzut wolny dla drużyny A.
