@@ -1324,7 +1324,7 @@ c)	Rzut wolny dla drużyny B
 d)	Rzut karny dla drużyny B
 e)	2-minutowe wykluczenie dla A1
 f)	2-minutowe wykluczenie dla A7
-8.51	Drużyna A gra siedmioma zawodnikami w polu gry (pusta bramka). B6 rzuca na bramkę, ale bramkarz B12 broni. B12 podaje do B9. B9 rzuca na bramkę. Zawodnik z pola gry A10 wchodzi do pola bramkowego i skutecznie broni. Piła wychodzi poza linię końcową boiska. Prawidłowa decyzja?
+8.51	Drużyna A gra siedmioma zawodnikami w polu gry (pusta bramka). A6 rzuca na bramkę, ale bramkarz B12 broni. B12 podaje do B9. B9 rzuca na bramkę. Zawodnik z pola gry A10 wchodzi do pola bramkowego i skutecznie broni. Piła wychodzi poza linię końcową boiska. Prawidłowa decyzja?
 a)	Rzut z linii bocznej dla drużyny B
 b)	Rzut wolny dla drużyny B
 c)	Rzut karny dla drużyny B
