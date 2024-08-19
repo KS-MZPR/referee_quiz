@@ -1917,7 +1917,7 @@ c)	Powtórzyć rzut z linii bocznej dla drużyny B po sygnale gwizdkiem sędzieg
 d)	Rzut wolny dla drużyny B.
 e)	Rzut karny dla drużyny B.
 f)	Bezpośrednia kara 2-minutowego wykluczenia dla A4.
-14.23	Drużyny A gra siedmioma zawodnikami w polu gry (pusta bramka). Sędziowie decyduje o faulu w ataku przeciwko zawodnikowi A7. B8 wchodzi w posiadanie piłki i jest gotowy wykonać rzut wolny, jako rzut bezpośredni na pustą bramkę. W trakcie wykonywania rzutu, ale zanim piłka opuściła jego rękę, jest wywrócony przez A7, który pcha go w plecy. Zaraz po tym, po prawidłowej zmianie z A2, bramkarz A16 zajmuje pozycję w polu bramkowym. Prawidłowa decyzja?
+14.23	Drużyny A gra siedmioma zawodnikami w polu gry (pusta bramka). Sędziowie decyduje o faulu w ataku przeciwko zawodnikowi A7. B8 wchodzi w posiadanie piłki i jest gotowy wykonać rzut wolny, jako rzut bezpośredni na pustą bramkę. W trakcie wykonywania rzutu, ale zanim piłka opuściła jego rękę, jest trzymany z tyłu i pociągnięty przez A7 tak, że częściowo traci kontrolę nad ciałem. Zaraz po tym, po prawidłowej zmianie z A2, bramkarz A16 zajmuje pozycję w polu bramkowym. Prawidłowa decyzja?
 a)	Kara progresywna dla A7.
 b)	2-minutowe wykluczenie dla A7.
 c)	Dyskwalifikacja dla A7 (czerwona kartka pokazana przez sędziów).
