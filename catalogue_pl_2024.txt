@@ -1222,7 +1222,7 @@ a)	Znieważenie przeciwnika na boisku w trakcie przerwy w meczu (pomiędzy poło
 b)	Wyjątkowo lekkomyślne lub szczególnie niebezpieczne zagranie
 c)	Zrewanżowanie się przeciwnikowi odruchowym uderzeniem po uprzednim faulu przeciwnika
 d)	Zachowanie z premedytacją lub złośliwe, które nie wynika z sytuacji na boisku
-8.34	W ostatnich 30 sekundach meczu drużyna A wykonuje rzut rozpoczynający grę. Sędzia dał sygnał gwizdkiem, ale piłka nie opuściła jeszcze ręki wykonującego rzut A9. Po sygnale gwizdkiem, A3 przebiega przez linię środkową boiska i jest gotowy do przyjęcia podania od A9, ale zostaje przewrócony przez B5, który chce zapobiec szybkiemu wznowieniu gry. Prawidłowa decyzja?
+8.34	Drużyna A wykonuje rzut rozpoczynający grę. Sędzia dał sygnał gwizdkiem, ale piłka nie opuściła jeszcze ręki wykonującego rzut A9. Po sygnale gwizdkiem, A3 przebiega przez linię środkową boiska i jest gotowy do przyjęcia podania od A9, ale zostaje przewrócony przez B5, który chce zapobiec szybkiemu wznowieniu gry. Prawidłowa decyzja?
 a)	2-minutowe wykluczenie dla B5
 b)	Dyskwalifikacja dla B5 bez opisu w protokole (czerwona kartka pokazana przez sędziów)
 c)	Rzut wolny dla drużyny A
