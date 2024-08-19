@@ -47,7 +47,7 @@ a)	Koniec meczu
 b)	Rzut wolny dla drużyny B musi być powtórzony bez sygnału gwizdka
 c)	Rzut wolny dla drużyny B musi być powtórzony po sygnale gwizdkiem
 d)	Rzut karny dla drużyny B
-2.6	Na krótko przed końcem meczu B2 otrzymuje piłkę na linii pola bramkowego drużyny A i ma sytuację pewną do zdobycia bramki. Próbuje zdobyć bramkę, lecz jest faulowany. Przed tym jak piłka opuszcza rękę B2 rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
+2.6	Na krótko przed końcem meczu B2 otrzymuje piłkę przy linii pola bramkowego drużyny A i ma sytuację pewną do zdobycia bramki. Próbuje zdobyć bramkę, lecz jest faulowany. Przed tym jak piłka opuszcza rękę B2 rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
 a)	Koniec meczu
 b)	Rzut wolny dla drużyny B
 c)	Rzut karny dla drużyny B
