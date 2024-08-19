@@ -740,7 +740,7 @@ a)	Rzut wolny dla drużyny B
 b)	Rzut karny dla drużyny B
 c)	Kara progresywna dla A1
 d)	Brak reakcji, takie zagranie jest dozwolone
-6.1	Piłka leży przy linii pola bramkowego. Atakujący A7 podnosi piłkę i próbuje zdobyć bramkę. A7 ma sytuację pewną do zdobycia bramki, kiedy jest nieprzepisowo zaatakowany. Prawidłowa decyzja?
+6.1	Piłka leży na linii pola bramkowego. Atakujący A7 podnosi piłkę i próbuje zdobyć bramkę. A7 ma sytuację pewną do zdobycia bramki, kiedy jest nieprzepisowo zaatakowany. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B
 b)	Rzut wolny dla drużyny A
 c)	Rzut karny dla drużyny A
