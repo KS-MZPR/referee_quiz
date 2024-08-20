@@ -1402,8 +1402,8 @@ b)	Rzut rozpoczynający grę dla drużyny A
 c)	Rzut wolny dla drużyny B
 d)	Rzut karny dla drużyny B
 e)	2-minutowe wykluczenie dla A12
-f)	Dyskwalifikacja dla B12 (czerwona kartka pokazana przez sędziów)
-g)	Dyskwalifikacja dla B12, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
+f)	Dyskwalifikacja dla A12 (czerwona kartka pokazana przez sędziów)
+g)	Dyskwalifikacja dla A12, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
 8.64	Na 3 sekundy przed końcem meczu jest remis 25:25. Drużyna A jest w ataku. B5 fauluje przy linii rzutów wolnych B, czego efektem jest rzut wolny dla A2. Zaraz potem rozlega się automatyczny sygnał kończący grę. Sędziowie dają sygnał na wykonanie rzutu wolnego bezpośredniego po zakończeniu czasu gry. Zanim piłka opuściła rękę zawodnika rzucającego B6 wychodzi w przód i będąc za blisko blokuje rzut. Prawidłowa decyzja?
 a)	Koniec meczu
 b)	Powtórzyć rzut wolny
