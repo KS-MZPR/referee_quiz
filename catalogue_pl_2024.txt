@@ -1287,7 +1287,7 @@ a)	Faul w ataku, rzut wolny dla drużyny B
 b)	Rzut wolny dla drużyny A
 c)	Rzut karny dla drużyny A
 d)	Kara progresywna dla B1
-e)	Dyskwalifikacja dla A1, bez opisu w protokole (czerwona kartka pokazana przez sędziów)
+e)	Dyskwalifikacja dla B1, bez opisu w protokole (czerwona kartka pokazana przez sędziów)
 8.45	Które zachowania muszą być ukarane dyskwalifikacją z opisem w protokole (czerwona i niebieska kartka pokazane przez sędziów)?
 a)	Zawodnik opluwa przeciwnika
 b)	Osoba towarzysząca nakłania zespół do przerwania meczu
