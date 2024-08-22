@@ -199,7 +199,7 @@ c)	1 minuta jest rozgrywana po przerwie w meczu a przed początkiem II połowy
 d)	1 minuta jest dodana do czasu gry II połowy meczu
 e)	Drużyna, która ostatnia była w posiadaniu piłki, wznawia grę
 f)	Gra jest wznawiana rzutem od bramki
-2.33	Drużyny A zdobyła bramkę i drużyna B chce szybko wykonać rzut rozpoczynający grę. B5 kozłuje piłkę biegnąc do linii środkowej boiska. Zawodnik A3 wybija mu piłkę otwartą dłonią, tak, że piłka odbija się od stopy B5 i toczy daleko od linii środkowej boiska. Prawidłowa decyzja?
+2.33	Drużyna A zdobyła bramkę i drużyna B chce szybko wykonać rzut rozpoczynający grę. B5 kozłuje piłkę biegnąc do linii środkowej boiska. Zawodnik A3 wybija mu piłkę otwartą dłonią, tak, że piłka odbija się od stopy B5 i toczy daleko od linii środkowej boiska. Prawidłowa decyzja?
 a)	Zatrzymanie czasu gry
 b)	Rzut rozpoczynający grę dla drużyny B
 c)	Kara progresywna dla A3
@@ -222,7 +222,7 @@ b)	Jeśli zamiar wykorzystania przerwy dla drużyny jest sygnalizowany w momenci
 c)	Czas przerwy dla drużyny rozpoczyna się w momencie gwizdka mierzącego czas
 d)	Naruszenia przepisów w trakcie przerwy dla drużyny mają takie same konsekwencje jak te w trakcie czasu gry
 e)	Grę po przerwie dla drużyny zawsze rozpoczyna drużyna, która zażądała tej przerwy
-2.37	Drużyny A jest w posiadaniu piłki. Osoba towarzysząca drużynie B sygnalizuje zamiar wykorzystania przerwy dla drużyny przez położenie zielonej kartki na stoliku sędziowskim przed mierzącym czas. Prawidłowa decyzja?
+2.37	Drużyna A jest w posiadaniu piłki. Osoba towarzysząca drużynie B sygnalizuje zamiar wykorzystania przerwy dla drużyny przez położenie zielonej kartki na stoliku sędziowskim przed mierzącym czas. Prawidłowa decyzja?
 a)	Zielona kartka pozostaje na stoliku sędziowskim
 b)	Mierzący czas gwiżdże, kiedy tylko drużyny B wejdzie w posiadanie piłki
 c)	Mierzący czas oddaje zieloną kartkę osobie towarzyszącej
@@ -449,7 +449,7 @@ a)	Zawodnik z pola gry, który rozpoczął mecz jako bramkarz, musi być wpisany
 b)	Zawodnik z pola gry, który rozpoczął mecz jako bramkarz, może w dowolnym czasie stać się graczem w polu
 c)	Spóźnieni bramkarze drużyny A muszą być wpisani do protokołu z numerami 1,12 lub 16
 d)	Jeden ze spóźnionych bramkarzy może uczestniczyć w grze tylko jako zawodnik z pola gry
-4.19	W czasie przerwy w grze A5 popełnia pierwszy w swoim zespole błąd zmiany. Drużyny A była w posiadaniu piłki, kiedy rozpoczęła się przerwa w grze. Prawidłowa decyzja?
+4.19	W czasie przerwy w grze A5 popełnia pierwszy w swoim zespole błąd zmiany. Drużyna A była w posiadaniu piłki, kiedy rozpoczęła się przerwa w grze. Prawidłowa decyzja?
 a)	Brak reakcji
 b)	Upomnienie dla A5
 c)	2-minutowe wykluczenie dla A5
@@ -472,7 +472,7 @@ b)	Rzut z linii bocznej dla drużyny B
 c)	2-minutowe wykluczenie dla A5
 d)	Dyskwalifikacja dla A5 (czerwona kartka pokazana przez sędziów)
 e)	Drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
-4.23	30 sekund przed końcem otrzymanej kary wykluczenia A3 wchodzi na boisku nie wpływając na przebieg meczu. Drużyny A jest w posiadaniu piłki. Prawidłowa decyzja?
+4.23	30 sekund przed końcem otrzymanej kary wykluczenia A3 wchodzi na boisku nie wpływając na przebieg meczu. Drużyna A jest w posiadaniu piłki. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B
 b)	Rzut wolny dla drużyny A
 c)	2-minutowe wykluczenie dla A3; drużyna A będzie grała na boisku w składzie dodatkowo pomniejszonym o 1 zawodnika przez 30 sekund
@@ -557,11 +557,11 @@ b)	BIAŁY 7 nie może grać z ochraniaczami na kostki, które mają odsłonięte
 c)	BIAŁY 7 otrzyma upomnienie.
 d)	Osoba odpowiedzialna za drużynę otrzyma upomnienie.
 e)	Żadna z poprzednich odpowiedzi nie jest prawidłowa.
-4.39	W 29:00 minucie meczu zawodnik A7 zostaje ukarany 2-minutowym wykluczeniem. Po przerwie w meczu, sędzia z pola gry daje sygnał na rozpoczęcie II połowy. 3 sekundy później mierzący czas przerywa grę gwizdkiem. Drużyny A ma 7 zawodników w polu gry. Prawidłowa decyzja?
+4.39	W 29:00 minucie meczu zawodnik A7 zostaje ukarany 2-minutowym wykluczeniem. Po przerwie w meczu, sędzia z pola gry daje sygnał na rozpoczęcie II połowy. 3 sekundy później mierzący czas przerywa grę gwizdkiem. Drużyna A ma 7 zawodników w polu gry. Prawidłowa decyzja?
 a)	1 zawodnik drużyny A musi opuścić boisko, brak dodatkowej kary
 b)	2-minutowe wykluczenie dla dodatkowego zawodnika z drużyny A
 c)	Drużyna A będzie grała na boisku w składzie pomniejszonym o 2 zawodników przez 57 sekund i o 1 zawodnika przez 1 min. i 3 sekundy
-4.40	Czas gry 43:27. A15 zdobywa bramkę, drużyna B wykonuje rzut rozpoczynający, zaraz po tym mierzący czas przerywa grę sygnałem gwizdka. Mierzący czas informuje sędziów, że A15 nie jest wpisany do protokołu. Drużyny A ma już 16 zawodników wpisanych do protokołu. Sędziowie orientują się, że A11 nie jest obecny w hali. Prawidłowa decyzja?
+4.40	Czas gry 43:27. A15 zdobywa bramkę, drużyna B wykonuje rzut rozpoczynający, zaraz po tym mierzący czas przerywa grę sygnałem gwizdka. Mierzący czas informuje sędziów, że A15 nie jest wpisany do protokołu. Drużyna A ma już 16 zawodników wpisanych do protokołu. Sędziowie orientują się, że A11 nie jest obecny w hali. Prawidłowa decyzja?
 a)	Bramka jest anulowana
 b)	Bramka jest uznana
 c)	A11 musi być wykreślony z protokołu i należy dopisać do niego A15, o ile jest to zgodne ze szczegółowymi regulacjami danych zawodów
@@ -623,7 +623,7 @@ a)	Mierzący czas natychmiast przerywa grę i informuje sędziów o złej zmiani
 b)	2-minutowe wykluczenie dla A2
 c)	Grać dalej
 d)	Rzut wolny dla drużyny B z linii strefy zmian drużyny A
-e)	Brak wykluczenia dla A2, jednak A2 musi opuścić boisko. Drużyny A pozostaje w posiadaniu piłki, ponieważ błąd popełnił mierzący czas/delegat
+e)	Brak wykluczenia dla A2, jednak A2 musi opuścić boisko. Drużyna A pozostaje w posiadaniu piłki, ponieważ błąd popełnił mierzący czas/delegat
 4.51	A4 opuszcza boisko po otrzymaniu opieki medycznej na boisku. Może ponownie wejść dopiero po trzecim ataku jego drużyny. Po drugim ataku drużyny A, osoba odpowiedzialna za drużynę A prosi A4, by zajął miejsce na boisku w obronie. A4 wchodzi na boisko po prawidłowej zmianie z A6 żeby zagrać tylko w obronie. Prawidłowa decyzja?
 a)	Brak reakcji (A4 może grać w obronie)
 b)	Upomnienie dla A4 ponieważ wszedł na boisko za wcześnie
@@ -1006,21 +1006,21 @@ a)	1
 b)	2
 c)	3
 7.31	Drużyna A jest w posiadaniu piłki. Sędziowie zauważają pasywny charakter gry drużyny A. Sędziowie pokazują sygnalizację ostrzegawczą o grze pasywnej. Drużyna B, w reakcji na tę sygnalizację, staje się bardziej zdecydowana w obronie chcąc sprowokować rzut wolny. Po 3 podaniach pomiędzy zawodnikami drużyny A, drużyna B doprowadza do rzutu wolnego. Prawidłowa decyzja?
-a)	Drużyny A może wykonać jeszcze 4 podania przed oddaniem rzutu na bramkę
-b)	Drużyny A może wykonać jeszcze 2 podania przed oddaniem rzutu na bramkę
-c)	Drużyny A może wykonać jeszcze 1 podanie przed oddaniem rzutu na bramkę
-d)	Drużyny A musi wykonać rzut wolny jako rzut bezpośredni na bramkę B
+a)	Drużyna A może wykonać jeszcze 4 podania przed oddaniem rzutu na bramkę
+b)	Drużyna A może wykonać jeszcze 2 podania przed oddaniem rzutu na bramkę
+c)	Drużyna A może wykonać jeszcze 1 podanie przed oddaniem rzutu na bramkę
+d)	Drużyna A musi wykonać rzut wolny jako rzut bezpośredni na bramkę B
 7.32	Drużyna A jest w ataku. Sędziowie rozpoznają grę pasywną drużyny A i pokazują sygnalizację ostrzegawczą. Drużyna A wykonuje cztery podania zanim A9 rzuca na bramkę. Rzut jest zablokowany przez B3 piłka wychodzi na aut, skąd musi być wprowadzona do gry przez rzut z linii bocznej dla drużyny A. Prawidłowa decyzja?
 a)	Sygnalizacja ostrzegawcza już nie obowiązuje
-b)	Drużyny A może wykonać jeszcze 4 podania przed oddaniem rzutu na bramkę
-c)	Drużyny A może wykonać jeszcze 2 podania przed oddaniem rzutu na bramkę
-d)	Drużyny A może wykonać jeszcze 1 podanie przed oddaniem rzutu na bramkę
+b)	Drużyna A może wykonać jeszcze 4 podania przed oddaniem rzutu na bramkę
+c)	Drużyna A może wykonać jeszcze 2 podania przed oddaniem rzutu na bramkę
+d)	Drużyna A może wykonać jeszcze 1 podanie przed oddaniem rzutu na bramkę
 7.33	Sędziowie rozpoznają grę pasywną drużyny A i pokazują sygnalizację ostrzegawczą. Po 4 podaniach A5 rzuca na bramkę. B3 blokuje rzut i piłka wraca do A5. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B
-b)	Drużyny A może wykonać jeszcze 1 podanie przed oddaniem rzutu na bramkę
+b)	Drużyna A może wykonać jeszcze 1 podanie przed oddaniem rzutu na bramkę
 c)	Sygnalizacja ostrzegawcza obowiązuje
 d)	Sygnalizacja ostrzegawcza już nie obowiązuje
-e)	Drużyny A nie może wykonać żadnego podania przed oddaniem rzutu na bramkę
+e)	Drużyna A nie może wykonać żadnego podania przed oddaniem rzutu na bramkę
 7.34	Drużyna B jest w ataku. Sędziowie pokazują sygnalizację ostrzegawczą o grze pasywnej. B7 podaje do B11. B11 próbuje minąć obrońcę, ale jest powstrzymany przez A3. Sędziowie decydują o rzucie wolnym dla drużyny B. B11 wykonuje rzut wolny i podaje piłkę do B2, który próbuje rzucić na bramkę, ale jego rzut jest zablokowany przez A4 i piłka wraca do B11. B11 rzuca na bramkę, ale jest pchnięty przez A5 i bramkarzowi A1 udaje się obronić rzut. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B; brak sygnalizacji ostrzegawczej o grze pasywnej, ponieważ drużyna B odzyskała posiadanie piłki po rzucie na bramkę
 b)	Rzut wolny dla drużyny B; sygnalizacja ostrzegawcza o grze pasywnej; drużyna B wykorzystała już 2 podania
@@ -1060,14 +1060,14 @@ a)	2-minutowe wykluczenie dla A6
 b)	Dyskwalifikacja dla A6 (czerwona kartka pokazana przez sędziów)
 c)	Dyskwalifikacja dla A6, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
 d)	Drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
-e)	Drużyny A będzie grała na boisku w składzie pomniejszonym o 2 zawodników przez 2 minuty
+e)	Drużyna A będzie grała na boisku w składzie pomniejszonym o 2 zawodników przez 2 minuty
 f)	Drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 4 minuty
 8.5	Zawodnik A2 odbywa karę 2-minutowego wykluczenia, mimo to osoba towarzysząca drużynie A wysyła go z powrotem na boisko. Zanim mierzący czas orientuje się w sytuacji, A2 przerwa sytuację pewną do zdobycia bramki dla drużyny B. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B, dodatkowe 2-minutowe wykluczenie dla A2
 b)	Rzut karny dla drużyny B, dodatkowe 2-minutowe wykluczenie dla A2, drużyna A będzie grała w składzie pomniejszonym o 2 zawodników do końca pierwszej kary A2
 c)	Rzut karny dla drużyny B, dyskwalifikacja dla A2, bez opisu w protokole (czerwona kartka pokazana przez sędziów), drużyna A będzie grała w składzie pomniejszonym o 2 zawodników do końca pierwszej kary A2
 d)	Rzut karny dla drużyny B, dyskwalifikacja dla A2, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów), drużyna A będzie grała w składzie pomniejszonym o 2 zawodników do końca pierwszej kary A2
-8.6	Drużyny A jest w ataku, kołowy A7, który nie jest w posiadaniu piłki, prawidłowo zastawia B4 swoim ciałem. Prawidłowa decyzja?
+8.6	Drużyna A jest w ataku, kołowy A7, który nie jest w posiadaniu piłki, prawidłowo zastawia B4 swoim ciałem. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B
 b)	Kara progresywna dla A7
 c)	Brak reakcji
@@ -1117,7 +1117,7 @@ c)	Rzut karny dla drużyny A
 d)	Dyskwalifikacja dla osoby towarzyszącej „C” z drużyny B, bez opisu w protokole (czerwona kartka pokazana przez sędziów)
 e)	Dyskwalifikacja dla osoby towarzyszącej „C” z drużyny B, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
 f)	Drużyna B będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
-8.15	Drużyny A jest w kontrataku. A5 stara się podać piłkę do A7, który jest przy linii pola bramkowego drużyny B. Osoba towarzysząca „D” z drużyny B wbiega na boisko i przechwytuje podanie do A7. Prawidłowa decyzja?
+8.15	Drużyna A jest w kontrataku. A5 stara się podać piłkę do A7, który jest przy linii pola bramkowego drużyny B. Osoba towarzysząca „D” z drużyny B wbiega na boisko i przechwytuje podanie do A7. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny A
 b)	Rzut karny dla drużyny A
 c)	2-minutowe wykluczenie dla osoby towarzyszącej „D” z drużyny B
@@ -1301,7 +1301,7 @@ b)	Rzut karny
 c)	Czerwona kartka dla A1
 d)	Niebieska kartka dla A1
 e)	Rzut od bramki
-8.47	Drużyna A gra siedmioma zawodnikami w polu gry (pusta bramka), B5 przechwytuje podanie i w pełni panuje nad piłką. Natychmiast rzuca na bramkę przeciwnika. A2 próbuje powstrzymać B5 wygarniając mu piłkę z ręki, a robiąc to uderza B5 w przedramię w efekcie czego rzut jest niecelny i piłka nie trafia do bramki. Drużyny A była już trzykrotnie upomniana w tym meczu. Prawidłowa decyzja?
+8.47	Drużyna A gra siedmioma zawodnikami w polu gry (pusta bramka), B5 przechwytuje podanie i w pełni panuje nad piłką. Natychmiast rzuca na bramkę przeciwnika. A2 próbuje powstrzymać B5 wygarniając mu piłkę z ręki, a robiąc to uderza B5 w przedramię w efekcie czego rzut jest niecelny i piłka nie trafia do bramki. Drużyna A była już trzykrotnie upomniana w tym meczu. Prawidłowa decyzja?
 a)	Rzut od bramki dla drużyny A
 b)	Rzut wolny dla drużyny B
 c)	Rzut karny dla drużyny B
@@ -1333,7 +1333,7 @@ e)	natychmiastowe 2-minutowe wykluczenie A10
 8.52	Drużyna A gra siedmioma zawodnikami w polu gry (pusta bramka). A6 rzuca na bramkę, ale bramkarz B1 broni ten rzut. B1 próbuje rzucić bezpośrednio na pustą bramkę przeciwnika. Piłka nie trafia do bramki i wychodzi poza linię końcową boiska. Prawidłowa decyzja?
 a)	Rzut od bramki dla drużyny A
 b)	Rzut od bramki może być wykonany przez 1 z zawodników z pola gry aby uniknąć dodatkowych przerw w grze
-c)	Drużyny A musi dokonać zmiany alby bramkarz mógł wykonać rzut od bramki
+c)	Drużyna A musi dokonać zmiany alby bramkarz mógł wykonać rzut od bramki
 d)	Zatrzymanie czasu gry jest obowiązkowe
 8.53	Drużyna B gra siedmioma zawodnikami w polu gry (pusta bramka). B5 rzuca na bramkę, ale bramkarz A1 broni ten rzut. A1 próbuje rzucić bezpośrednio na pustą bramkę przeciwnika. W tym samym momencie bramkarz B12 popełnia błąd zmiany, wbiega na boisko zanim B7 je opuścił. Delegat natychmiast przerywa grę sygnałem gwizdka. Zaraz po sygnale gwizdkiem piłka wychodzi poza linię końcową boiska. Prawidłowa decyzja?
 a)	2-minutowe wykluczenie dla B12
@@ -1350,16 +1350,16 @@ e)	Bramka dla drużyny A
 8.55	Drużyna B gra siedmioma zawodnikami w polu gry. A9 rzuca bezpośrednio na pustą bramkę i trafia do niej. Piłka leży w polu bramkowym. Prawidłowa decyzja?
 a)	Bramka i rzut rozpoczynający grę dla drużyny B
 b)	Zatrzymanie czasu gry
-c)	Drużyny B musi dokonać zmiany alby bramkarz mógł wykonać rzut od bramki
+c)	Drużyna B musi dokonać zmiany aby bramkarz mógł wykonać rzut od bramki
 d)	Piłka może zostać zagrana przez jednego z zawodników z pola gry z drużyny B
-8.56	Na 6 sekund przed końcem spotkania jest remis 27-27. Drużyny A jest w ataku. A7 podaje do kołowego A3. B7 przechwytuje podanie. W tym momencie B7 zostaje przewrócony przez A3. Sekundę później rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
+8.56	Na 6 sekund przed końcem spotkania jest remis 27-27. Drużyna A jest w ataku. A7 podaje do kołowego A3. B7 przechwytuje podanie. W tym momencie B7 zostaje przewrócony przez A3. Sekundę później rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
 a)	Koniec meczu
 b)	Rzut wolny dla drużyny B
 c)	Rzut karny dla drużyny B
 d)	2-minutowe wykluczenie dla A3
 e)	Dyskwalifikacja dla A3 (czerwona kartka pokazana przez sędziów)
 f)	Dyskwalifikacja dla A3, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
-8.57	Na 10 sekund przed końcem spotkania jest remis 27-27. Drużyny A jest w ataku. B5 przechwytuje piłkę i rozpoczyna kontratak. W tym momencie zostaje zaatakowany z tyłu przez A11, który pcha go w niebezpieczny sposób tak, że B5 traci kontrolę nad ciałem. Zanim sędziowie mogą zareagować rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
+8.57	Na 10 sekund przed końcem spotkania jest remis 27-27. Drużyna A jest w ataku. B5 przechwytuje piłkę i rozpoczyna kontratak. W tym momencie zostaje zaatakowany z tyłu przez A11, który pcha go w niebezpieczny sposób tak, że B5 traci kontrolę nad ciałem. Zanim sędziowie mogą zareagować rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
 a)	Koniec meczu
 b)	Rzut wolny dla drużyny B
 c)	Rzut karny dla drużyny B
@@ -1379,7 +1379,7 @@ c)	Rzut karny dla drużyny B
 d)	2-minutowe wykluczenie dla A2
 e)	Dyskwalifikacja dla A2 (czerwona kartka pokazana przez sędziów)
 f)	Dyskwalifikacja dla A2, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
-8.60	Drużyny A jest w ataku. 3 sekundy przed końcem meczu, sędziowie decydują o rzucie wolnym dla drużyny B przy linii rzutów wolnych przeciwnika. B10 jest poprawnie ustawiony i gotowy wykonać rzut wolny jako bezpośredni rzut na bramkę. B10 rzuca, ale piłka jest zablokowana przez zawodnika A5, który stoi 1 metr od zawodnika wykonującego rzut. Rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
+8.60	Drużyna A jest w ataku. 3 sekundy przed końcem meczu, sędziowie decydują o rzucie wolnym dla drużyny B przy linii rzutów wolnych przeciwnika. B10 jest poprawnie ustawiony i gotowy wykonać rzut wolny jako bezpośredni rzut na bramkę. B10 rzuca, ale piłka jest zablokowana przez zawodnika A5, który stoi 1 metr od zawodnika wykonującego rzut. Rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
 a)	Rzut karny dla drużyny B
 b)	2-minutowe wykluczenie dla A5
 c)	Dyskwalifikacja dla A5 (czerwona kartka pokazana przez sędziów)
@@ -1410,7 +1410,7 @@ b)	Powtórzyć rzut wolny
 c)	Rzut karny dla drużyny A
 d)	2-minutowe wykluczenie dla B6
 e)	Dyskwalifikacja dla B6 (czerwona kartka pokazana przez sędziów)
-8.65	Drużyny A gra siedmioma zawodnikami w polu gry (pusta bramka). B5 przechwytuje podanie i biegnie w kontrataku w kierunku pustej bramki drużyny A. Bramkarz A12 wchodzi na boisko po prawidłowej zmianie i biegnie w tym samym kierunku co B5. W momencie kiedy B5 rzuca na bramkę, bramkarz A12 popycha go z boku tak, że ten częściowo traci kontrolę nad ciałem i nie trafia do bramki. Prawidłowa decyzja?
+8.65	Drużyna A gra siedmioma zawodnikami w polu gry (pusta bramka). B5 przechwytuje podanie i biegnie w kontrataku w kierunku pustej bramki drużyny A. Bramkarz A12 wchodzi na boisko po prawidłowej zmianie i biegnie w tym samym kierunku co B5. W momencie kiedy B5 rzuca na bramkę, bramkarz A12 popycha go z boku tak, że ten częściowo traci kontrolę nad ciałem i nie trafia do bramki. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B
 b)	Rzut karny dla drużyny B
 c)	Zatrzymanie czasu gry
@@ -1448,21 +1448,21 @@ b)	Rzut wolny dla drużyny A z linii strefy zmian drużyny B
 c)	Rzut karny dla drużyny A
 d)	2-minutowe wykluczenie dla B3
 e)	Dyskwalifikacja dla B3 (czerwona kartka pokazana przez sędziów)
-8.71	Na 10 sekund przed końcem meczu jest remis 29:29. Drużyny A jest w kontrataku. B10 atakuje A9 w sposób zagrażający jego zdrowiu. Zanim A9 upada, udaje mu się podać do A11, który rzuca na bramkę. Bramkarz B12 broni rzut. Prawidłowa decyzja?
+8.71	Na 10 sekund przed końcem meczu jest remis 29:29. Drużyna A jest w kontrataku. B10 atakuje A9 w sposób zagrażający jego zdrowiu. Zanim A9 upada, udaje mu się podać do A11, który rzuca na bramkę. Bramkarz B12 broni rzut. Prawidłowa decyzja?
 a)	2-minutowe wykluczenie dla B10
 b)	Dyskwalifikacja dla B10 (czerwona kartka pokazana przez sędziów)
 c)	Rzut od bramki dla drużyny B
 d)	Rzut wolny dla drużyny A
 e)	Rzut karny dla drużyny A
 f)	Zatrzymanie czasu gry
-8.72	Na 10 sekund przed końcem meczu jest remis 29:29. Drużyny A jest w kontrataku. B10 atakuje A9 w sposób zagrażający jego zdrowiu. Zanim A9 upada, udaje mu się podać do A11, który zdobywa bramkę. Prawidłowa decyzja?
+8.72	Na 10 sekund przed końcem meczu jest remis 29:29. Drużyna A jest w kontrataku. B10 atakuje A9 w sposób zagrażający jego zdrowiu. Zanim A9 upada, udaje mu się podać do A11, który zdobywa bramkę. Prawidłowa decyzja?
 a)	2-minutowe wykluczenie dla B10
 b)	Dyskwalifikacja dla B10 (czerwona kartka pokazana przez sędziów)
 c)	Bramka dla drużyny A
 d)	Rzut wolny dla drużyny A
 e)	Rzut karny dla drużyny A
 f)	Zatrzymanie czasu gry
-8.73	Na 10 sekund przed końcem meczu jest remis 29:29. Drużyny A jest w kontrataku. B10 atakuje A9 w sposób zagrażający jego zdrowiu. Zanim A9 upada udaje mu się podać do A11. Następnie A11 podaje do A4. Prawidłowa decyzja?
+8.73	Na 10 sekund przed końcem meczu jest remis 29:29. Drużyna A jest w kontrataku. B10 atakuje A9 w sposób zagrażający jego zdrowiu. Zanim A9 upada udaje mu się podać do A11. Następnie A11 podaje do A4. Prawidłowa decyzja?
 a)	2-minutowe wykluczenie dla B10
 b)	Dyskwalifikacja dla B10 (czerwona kartka pokazana przez sędziów)
 c)	Sędziowie przerywają grę gwizdkiem w momencie podania od A11 do A4
@@ -1547,7 +1547,7 @@ b)	Rzut karny dla drużyny B
 c)	Wynik meczu 25:26
 d)	Dyskwalifikacja dla menadżera, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
 e)	Dodatkowy opis sytuacji w protokole
-9.8	Zawodnik B9 zdobywa bramkę z rzutu karnego. Drużyny A szybko wykonuje rzut rozpoczynający grę. Po dwóch podaniach A4 zdobywa bramkę. W tym momencie mierzący czas przerywa grę gwizdkiem i informuje, że B9, który w międzyczasie wrócił do strefy zmian, w momencie wykonywania rzutu karnego, miał do odbycia jeszcze 20 sekund kary 2-minutowego wykluczenia. Prawidłowa decyzja?
+9.8	Zawodnik B9 zdobywa bramkę z rzutu karnego. Drużyna A szybko wykonuje rzut rozpoczynający grę. Po dwóch podaniach A4 zdobywa bramkę. W tym momencie mierzący czas przerywa grę gwizdkiem i informuje, że B9, który w międzyczasie wrócił do strefy zmian, w momencie wykonywania rzutu karnego, miał do odbycia jeszcze 20 sekund kary 2-minutowego wykluczenia. Prawidłowa decyzja?
 a)	Powtórzyć rzut karny dla drużyny B
 b)	Dodatkowe 2-minutowe wykluczenie dla B9
 c)	Obie bramki są ważne
@@ -1562,12 +1562,12 @@ e)	Zatrzymanie czasu gry
 a)	Bramka dla drużyny B
 b)	Rzut wolny dla drużyny B
 c)	2-minutowe wykluczenie dla A9
-10.1	Drużyny A wygrała losowanie i wybrała rozpoczęcie meczu. Osoba reprezentująca drużynę B chce zmienić strony boiska. Prawidłowa decyzja?
+10.1	Drużyna A wygrała losowanie i wybrała rozpoczęcie meczu. Osoba reprezentująca drużynę B chce zmienić strony boiska. Prawidłowa decyzja?
 a)	Zmiana stron
 b)	Zamiana stron, jeśli drużyny A wyrazi zgodę
 c)	Powtórzyć losowanie
 d)	Nie zmieniać stron
-10.2	Drużyny A wygrała losowanie i chce zmienić strony boiska. Drużyna B chce, aby drużyna A rozpoczynała mecz. Prawidłowa decyzja?
+10.2	Drużyna A wygrała losowanie i chce zmienić strony boiska. Drużyna B chce, aby drużyna A rozpoczynała mecz. Prawidłowa decyzja?
 a)	Mecz rozpoczyna drużyna A
 b)	Zmiana stron i mecz rozpoczyna drużyna B
 c)	Powtórzyć losowanie
@@ -1576,11 +1576,11 @@ d)	Osoby reprezentujące drużyny muszą dojść do porozumienia
 a)	Stojąc do 3 metrów przed linią środkową, na swojej połowie boiska
 b)	Stojąc do 3 metrów za linią środkową, na połowie boiska przeciwnika
 c)	Na linii środkowej boiska z jedną stopą na linii i drugą stopą na lub poza linią po swojej stronie boiska, z tolerancją w kierunku linii bocznych 1,5m
-10.4	(Bez pola wznowienia gry.) Na krótko przed końcem meczu jest remis 15:15. Drużyna B zdobywa bramkę i jest 15:16. Drużyny A chce szybko wykonać rzut rozpoczynający grę. Zawodnik drużyny A stoi z piłką przy linii środkowej boiska z jedną stopą przed linią i drugą stopą za tą linią. Prawidłowa decyzja?
+10.4	(Bez pola wznowienia gry.) Na krótko przed końcem meczu jest remis 15:15. Drużyna B zdobywa bramkę i jest 15:16. Drużyna A chce szybko wykonać rzut rozpoczynający grę. Zawodnik drużyny A stoi z piłką przy linii środkowej boiska z jedną stopą przed linią i drugą stopą za tą linią. Prawidłowa decyzja?
 a)	Korekta ustawienia; sygnał gwizdkiem na wykonywanie rzutu rozpoczynającego grę
 b)	Ustawienie jest prawidłowe; sygnał gwizdkiem na wykonywanie rzutu rozpoczynającego grę
 c)	Zatrzymanie czasu gry; korekta ustawienia; sygnał gwizdkiem na wykonywanie rzutu rozpoczynającego grę
-10.5	Drużyny A wykonuje rzut rozpoczynający grę. Bramkarz B15 nie zajął jeszcze miejsca w swojej bramce. Sędzia z pola gry gwiżdże na rozpoczęcie meczu, A9 natychmiast rzuca i zdobywa bramkę. Prawidłowa decyzja?
+10.5	Drużyna A wykonuje rzut rozpoczynający grę. Bramkarz B15 nie zajął jeszcze miejsca w swojej bramce. Sędzia z pola gry gwiżdże na rozpoczęcie meczu, A9 natychmiast rzuca i zdobywa bramkę. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny A z linii środkowej boiska
 b)	Powtórzyć rzut rozpoczynający grę
 c)	Bramka dla drużyny A
@@ -1796,7 +1796,7 @@ a)	Gra jest wznawiana rzutem z linii bocznej dla drużyny B.
 b)	Gra jest wznawiana rzutem wolnym dla drużyny A.
 c)	Zatrzymanie czasu gry.
 d)	Opis sytuacji w protokole.
-13.15	Drużyny A była w ataku. Sędziowie zadecydowali o rzucie wolnym dla drużyny B. Zanim B2 zdążył wykonać rzut wolny, B11 przewraca A8. Prawidłowa decyzja?
+13.15	Drużyna A była w ataku. Sędziowie zadecydowali o rzucie wolnym dla drużyny B. Zanim B2 zdążył wykonać rzut wolny, B11 przewraca A8. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B po sygnale gwizdkiem sędziego.
 b)	Rzut wolny dla drużyny A po sygnale gwizdkiem sędziego.
 c)	Zatrzymanie czasu gry.
@@ -1864,7 +1864,7 @@ b)	Rzut karny dla drużyny A.
 c)	Rzut wolny dla drużyny A.
 d)	Rzut od bramki dla drużyny B po sygnale gwizdkiem sędziego.
 e)	Opis sytuacji w protokole.
-14.13	Drużyny A przeprowadza kontratak przy wyniku 26:26. A5 jest gotowy do oddania rzutu przy linii pola bramkowego drużyny B. W tym momencie rozlega się sygnał gwizdkiem od mierzącego czas, który sygnalizuje koniec meczu. Sędziowie stwierdzają, że do rozegrania pozostało jeszcze 20 sekund meczu. Prawidłowa decyzja?
+14.13	Drużyna A przeprowadza kontratak przy wyniku 26:26. A5 jest gotowy do oddania rzutu przy linii pola bramkowego drużyny B. W tym momencie rozlega się sygnał gwizdkiem od mierzącego czas, który sygnalizuje koniec meczu. Sędziowie stwierdzają, że do rozegrania pozostało jeszcze 20 sekund meczu. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny A przy stoliku sędziowskim.
 b)	Rzut karny dla drużyny A.
 c)	Opis sytuacji w protokole.
@@ -1910,14 +1910,14 @@ b)	Rzut karny dla drużyny B.
 c)	Zatrzymanie czasu gry.
 d)	2-minutowe wykluczenie dla A6.
 e)	Dyskwalifikacja dla A6 (czerwona kartka pokazana przez sędziów).
-14.22	Drużyny A gra siedmioma zawodnikami w polu gry (pusta bramka). A11 podaje niecelnie i piłka przekracza linię boczną boiska. B9 wykonuje rzut z linii bocznej w kierunku pustej bramki (rzut bezpośredni). Rzut jest zablokowany przez A4, który nie zachowuje odległości 3m od zawodnika wykonującego rzut. Prawidłowa decyzja?
+14.22	Drużyna A gra siedmioma zawodnikami w polu gry (pusta bramka). A11 podaje niecelnie i piłka przekracza linię boczną boiska. B9 wykonuje rzut z linii bocznej w kierunku pustej bramki (rzut bezpośredni). Rzut jest zablokowany przez A4, który nie zachowuje odległości 3m od zawodnika wykonującego rzut. Prawidłowa decyzja?
 a)	Korekta ustawienia A4.
 b)	Kara progresywna dla A4.
 c)	Powtórzyć rzut z linii bocznej dla drużyny B po sygnale gwizdkiem sędziego.
 d)	Rzut wolny dla drużyny B.
 e)	Rzut karny dla drużyny B.
 f)	Bezpośrednia kara 2-minutowego wykluczenia dla A4.
-14.23	Drużyny A gra siedmioma zawodnikami w polu gry (pusta bramka). Sędziowie decyduje o faulu w ataku przeciwko zawodnikowi A7. B8 wchodzi w posiadanie piłki i jest gotowy wykonać rzut wolny, jako rzut bezpośredni na pustą bramkę. W trakcie wykonywania rzutu, ale zanim piłka opuściła jego rękę, jest trzymany z tyłu i pociągnięty przez A7 tak, że częściowo traci kontrolę nad ciałem. Zaraz po tym, po prawidłowej zmianie z A2, bramkarz A16 zajmuje pozycję w polu bramkowym. Prawidłowa decyzja?
+14.23	Drużyna A gra siedmioma zawodnikami w polu gry (pusta bramka). Sędziowie decyduje o faulu w ataku przeciwko zawodnikowi A7. B8 wchodzi w posiadanie piłki i jest gotowy wykonać rzut wolny, jako rzut bezpośredni na pustą bramkę. W trakcie wykonywania rzutu, ale zanim piłka opuściła jego rękę, jest trzymany z tyłu i pociągnięty przez A7 tak, że częściowo traci kontrolę nad ciałem. Zaraz po tym, po prawidłowej zmianie z A2, bramkarz A16 zajmuje pozycję w polu bramkowym. Prawidłowa decyzja?
 a)	Kara progresywna dla A7.
 b)	2-minutowe wykluczenie dla A7.
 c)	Dyskwalifikacja dla A7 (czerwona kartka pokazana przez sędziów).
@@ -2021,7 +2021,7 @@ b)	Korekta ustawienia, powtórzyć rzut rozpoczynający grę dla drużyny A.
 c)	Rzut wolny dla drużyny B.
 d)	Upomnienie słowne dla A13.
 e)	Upomnienie słowne dla A7 i A13.
-15.20	Na 4 sekundy przed końcem meczu jest remis 30:30. Drużyny A zdobywa bramkę na 31:30. Drużyny B chce szybko wykonać rzut rozpoczynający grę. B10 stoi jedną stopą za linią środkową boiska i drugą stopą przed tą linią. Bez sygnału gwizdkiem sędziego rzuca piłkę do bramki drużyny A. Zaraz potem rozlega się automatyczny sygnał kończący. Prawidłowa decyzja?
+15.20	Na 4 sekundy przed końcem meczu jest remis 30:30. Drużyna A zdobywa bramkę na 31:30. Drużyna B chce szybko wykonać rzut rozpoczynający grę. B10 stoi jedną stopą za linią środkową boiska i drugą stopą przed tą linią. Bez sygnału gwizdkiem sędziego rzuca piłkę do bramki drużyny A. Zaraz potem rozlega się automatyczny sygnał kończący. Prawidłowa decyzja?
 a)	Bramka dla drużyny B.
 b)	Powtórzyć rzut rozpoczynający grę dla drużyny B.
 c)	Odczekać na efekt rzutu.
@@ -2042,11 +2042,11 @@ a)	Rzut wolny dla drużyny A bez sygnału gwizdkiem sędziego.
 b)	Rzut z linii bocznej dla drużyny A po sygnale gwizdkiem sędziego.
 c)	Powtórzyć rzutu z linii bocznej dla drużyny B po sygnale gwizdkiem sędziego.
 d)	Rzut wolny dla drużyny B po sygnale gwizdkiem sędziego.
-15.24	Drużyny A wykonuje rzut wolny. A9 chce szybko wykonać rzut i nie czekając na gwizdek sędziów wykonuje go w wyskoku. Piłka trafia do A4, który jest w sytuacji pewnej do zdobycia bramki. Prawidłowa decyzja?
+15.24	Drużyna A wykonuje rzut wolny. A9 chce szybko wykonać rzut i nie czekając na gwizdek sędziów wykonuje go w wyskoku. Piłka trafia do A4, który jest w sytuacji pewnej do zdobycia bramki. Prawidłowa decyzja?
 a)	Brak reakcji.
 b)	Rzut wolny dla drużyny B.
 c)	Powtórzyć rzut wolny dla drużyny A po sygnale gwizdkiem.
-15.25	Drużyny A wykonuje rzut wolny. A5 chce szybko wykonać rzut i nie czekając na gwizdek sędziów wykonuje go w biegu. A5 podaje piłkę do A4. B4 udaje się przechwycić podanie i teraz on znajduje się w sytuacji pewnej do zdobycia bramki. Prawidłowa decyzja?
+15.25	Drużyna A wykonuje rzut wolny. A5 chce szybko wykonać rzut i nie czekając na gwizdek sędziów wykonuje go w biegu. A5 podaje piłkę do A4. B4 udaje się przechwycić podanie i teraz on znajduje się w sytuacji pewnej do zdobycia bramki. Prawidłowa decyzja?
 a)	Brak reakcji.
 b)	Powtórzyć rzut wolny dla drużyny A po sygnale gwizdkiem sędziego.
 c)	Powtórzyć rzut wolny dla drużyny A po sygnale gwizdkiem sędziego; kara progresywna dla B3.
@@ -2110,7 +2110,7 @@ c)	Upomnienie słowne A7, bo sytuacja miała miejsce w przerwie meczu.
 16.12	W trakcie przerwy w meczu, w drodze do szatni B7 ubliża sędziemu. Prawidłowa decyzja?
 a)	Dyskwalifikacja dla B7, bez opisu w protokole (czerwona kartka pokazana przez sędziów) .
 b)	2-minutowe wykluczenie dla B7.
-c)	Drużyny B będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez pierwsze 2 minuty II połowy.
+c)	Drużyna B będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez pierwsze 2 minuty II połowy.
 d)	Dyskwalifikacja dla B7, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów).
 16.13	Po gwizdku na przerwę w spotkaniu B5 z A9 zderzają się na boisku. Obaj zaczynają na siebie krzyczeć. A9 uderza B5 obiema rękoma w klatkę piersiową tak, że B5 prawie traci kontrolę nad ciałem. Prawidłowa decyzja?
 a)	2-minutowe wykluczenie dla A9 na początku II połowy.
@@ -2244,12 +2244,12 @@ b)	2-minutowe wykluczenie dla osoby odpowiedzialnej za drużynę A.
 c)	Opis sytuacji w protokole.
 d)	Upomnienie dla osoby odpowiedzialnej za drużynę A
 e)	Nie ma możliwości ukarania osoby odpowiedzialnej za drużynę A
-18.4	Drużyny A jest w posiadaniu piłki przy linii rzutów wolnych drużyny B. Delegat przerywa grę i informuje sędziów, że osoba towarzysząca „A” z drużyny B ubliża mu. Prawidłowa decyzja?
+18.4	Drużyna A jest w posiadaniu piłki przy linii rzutów wolnych drużyny B. Delegat przerywa grę i informuje sędziów, że osoba towarzysząca „A” z drużyny B ubliża mu. Prawidłowa decyzja?
 a)	Upomnienie słowne dla osoby towarzyszącej „A” z drużyny B, opis sytuacji w protokole.
 b)	Dyskwalifikacja dla osoby towarzyszącej „A” z drużyny B, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów).
 c)	Wznowienie gry rzutem wolnym dla drużyny A z linii strefy zmian drużyny B.
 d)	Wznowienie gry rzutem wolnym dla drużyny A przy linii rzutów wolnych drużyny B.
-18.5	Drużyny A jest w posiadaniu piłki przy linii rzutów wolnych drużyny B. Mierzący czas przerywa grę i informuje sędziów, że osoba towarzysząca „A” z drużyny A ubliża mu. To zachowanie zaobserwował tylko mierzący czas. Prawidłowa decyzja?
+18.5	Drużyna A jest w posiadaniu piłki przy linii rzutów wolnych drużyny B. Mierzący czas przerywa grę i informuje sędziów, że osoba towarzysząca „A” z drużyny A ubliża mu. To zachowanie zaobserwował tylko mierzący czas. Prawidłowa decyzja?
 a)	Opis sytuacji w protokole.
 b)	2-minutowe wykluczenie dla osoby towarzyszącej „A” z drużyny A; opis w protokole.
 c)	Gra jest wznowiona rzutem wolnym dla drużyny B z linii strefy zmian drużyny A.
