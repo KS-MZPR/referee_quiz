@@ -1605,7 +1605,7 @@ a)	Bramka dla drużyny B.
 b)	Rzut wolny dla drużyny A.
 c)	Korekta, rzut rozpoczynający grę dla drużyny B po sygnale gwizdkiem sędziów.
 d)	Rzut zostaje wykonany prawidłowo, gdyż sędziowie zatwierdzili pozycję rzucającego, dając sygnał gwizdkiem na wykonanie rzutu.
-10.10	(Z polem wznowienia gry.) Drużyna B chce wykonać szybki rzut rozpoczynający grę z pola wznowienia gry. W tym samym czasie, gdy B8 ma jedną nogę w polu wznowienia, a piłka również znajduje się całkowicie w polu wznowienia gry, zawodnik A7 również znajduje się w polu rzutu, biegnąc w kierunku własnej bramki. Ponieważ w kierunku A7 nie ma żadnych zawodników, B8 rzuca piłkę w tył BIAŁY 7. BIAŁY 7 znajduje się w polu rzutu, gdy piłka go uderza. Jaka jest właściwa decyzja?
+10.10	(Z polem wznowienia gry.) Drużyna B chce wykonać szybki rzut rozpoczynający grę z pola wznowienia gry. W tym samym czasie, gdy B8 ma jedną nogę w polu wznowienia, a piłka również znajduje się całkowicie w polu wznowienia gry, zawodnik A7 również znajduje się w tym polu, biegnąc w kierunku własnej bramki. Ponieważ w kierunku A7 nie ma żadnych zawodników, B8 rzuca piłkę w plecy A7. A7 znajduje się w polu wznowienia gry, gdy piłka go uderza. Jaka jest właściwa decyzja?
 a)	Rzut wolny dla drużyny A
 b)	Rzut wolny dla drużyny B
 c)	Rzut karny dla drużyny B
