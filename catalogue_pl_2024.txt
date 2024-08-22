@@ -1904,7 +1904,7 @@ a)	Rzut wolny dla drużyny B.
 b)	Rzut karny dla drużyny B.
 c)	Zatrzymanie czasu gry.
 d)	2-minutowe wykluczenie dla A3.
-14.21	Drużyny A gra siedmioma zawodnikami w polu gry (pusta bramka). B5 przechwytuje ich podanie. B5 natychmiast próbuje wykonać rzut bezpośredni na pustą bramkę. W tym momencie jest pchnięty w plecy przez A6 przez co traci kontrolę nad ciałem i nie trafia do bramki. Prawidłowa decyzja?
+14.21	Drużyna A gra siedmioma zawodnikami w polu gry (pusta bramka). B5 przechwytuje ich podanie. B5 natychmiast próbuje wykonać rzut bezpośredni na pustą bramkę. W tym momencie jest pchnięty z tyłu przez A6 tak, że częściowo traci kontrolę nad ciałem i nie trafia do bramki. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B.
 b)	Rzut karny dla drużyny B.
 c)	Zatrzymanie czasu gry.
