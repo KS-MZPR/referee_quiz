@@ -1583,7 +1583,7 @@ c)	Zatrzymanie czasu gry; korekta ustawienia; sygnał gwizdkiem na wykonywanie r
 10.5	Drużyny A wykonuje rzut rozpoczynający grę. Bramkarz B15 nie zajął jeszcze miejsca w swojej bramce. Sędzia z pola gry gwiżdże na rozpoczęcie meczu, A9 natychmiast rzuca i zdobywa bramkę. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny A z linii środkowej boiska
 b)	Powtórzyć rzut rozpoczynający grę
-c)	Bramka dla drużyny B
+c)	Bramka dla drużyny A
 d)	Rzut wolny dla drużyny B
 10.6	(Bez pola wznowienia gry.) Które z poniższych stwierdzeń odnośnie rzutu rozpoczynającego grę są prawdziwe?
 a)	Rzut rozpoczynający grę musi być wykonany ze środka boiska w ciągu 3 sekund po sygnale gwizdkiem i musi być wykonany w kierunku połowy boiska przeciwnika
