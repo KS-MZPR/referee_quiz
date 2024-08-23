@@ -889,7 +889,7 @@ d)	0
 a)	Rzut wolny dla drużyny B
 b)	Bramka
 c)	Rzut od bramki dla drużyny B
-d)	Rzut rozpoczynający grę dla drużyny B
+d)	Rzut z linii bocznej dla drużyny B
 7.7	Zawodnik A5 chce rozpocząć atak swojej drużyny. Szybko kozłując robi pięć kroków. Następnie chwyta piłkę, aby podać ją do zawodnika swojej drużyny. Prawidłowa decyzja?
 a)	Rzut wolny dla drużyny B
 b)	Rzut wolny dla drużyny A
