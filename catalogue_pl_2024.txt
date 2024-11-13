@@ -192,6 +192,7 @@ b)	1 minuta jest dogrywana przed przerwą w meczu
 c)	1 minuta jest dogrywana po przerwie w meczu a przed początkiem II połowy
 d)	1 minuta jest dodana do czasu gry drugiej połowy meczu
 e)	Drużyna, która ostatnia była w posiadaniu piłki, wznawia grę
+f)	Gra jest wznawiana rzutem od bramki
 2.32	I połowa meczu zakończyła się 1 minutę za wcześnie. Nie doszło do przekroczenia przepisów, w momencie gwizdka piłka była w powietrzu nad polem bramkowym. Po sygnale gwizdkiem piłka opuściła boisko poza linią końcową boiska. Obie drużyny pozostają na boisku. Prawidłowa decyzja?
 a)	1 minuta nie jest rozgrywana
 b)	1 minuta jest rozgrywana przed przerwą w meczu.
@@ -287,6 +288,7 @@ b)	Przerwa dla drużyny A
 c)	Zielona kartka musi zostać zwrócona drużynie A
 d)	Gra jest wznawiana rzutem od bramki dla drużyny B
 e)	Gra jest wznawiana rzutem wolnym dla drużyny A
+f)	Gra jest wznawiana rzutem wolnym dla drużyny B
 2.49	Drużyna A zasygnalizowała zamiar wykorzystania przerwy dla drużyny. Osoba towarzysząca drużynie A kładzie zieloną kartkę na stoliku sędziowskim przed mierzącym czas. Zanim mierzący czas gwiżdże, żeby przyznać przerwę dla drużyny, A11 popełnia faul w ataku. Mierzący czas gwiżdże, żeby przyznać przerwę dla drużyny, zanim sędziowie decydują o faulu w ataku. Prawidłowa decyzja?
 a)	Sędziowie decydują, że przerwa dla drużyny nie jest możliwa, bo faul w ataku nastąpił zanim mierzący czas zagwizdał, żeby przyznać przerwę dla drużyny
 b)	Przerwa dla drużyny A
@@ -519,6 +521,7 @@ a)	Osoba niewpisana do protokołu musi opuścić strefę zmian
 b)	Kara progresywna dla osoby odpowiedzialnej za drużynę B
 c)	Jedna z osób towarzyszących drużynie musi opuścić strefę zmian
 d)	Gra jest wznawiana rzutem wolnym dla drużyny A
+e)	Gra jest wznawiana rzutem wolnym dla drużyny B
 4.32	Które z poniższych stwierdzeń odnośnie strojów są prawdziwe?
 a)	Wszyscy zawodnicy występujący w danej drużynie jako bramkarze muszą posiadać ten sam kolor strojów
 b)	Koszulki zawodników powinny być oznaczone numerami o wysokości co najmniej 20 cm na plecach i z przodu
@@ -534,8 +537,9 @@ a)	Kiedy zawodnik opuszcza strefę zmian bez informowania mierzącego czas/sekre
 b)	Kiedy w momencie rozpoczęcia meczu w strefie zmian drużyny znajdują się osoby niewpisane do protokołu
 c)	Kiedy dodatkowy zawodnik wejdzie na boisko
 d)	Kiedy zawodnik nieuprawniony do gry wejdzie na boisko
-e)	Kiedy po rozpoczęciu meczu sędziowie zauważą u zawodników niedozwolone przedmioty i wyposażenie (ochraniacze, pierścionki itp.)
+e)	Kiedy po rozpoczęciu meczu sędziowie zauważą u zawodników na boisku niedozwolone przedmioty i wyposażenie (ochraniacze, pierścionki itp.)
 f)	Kiedy dochodzi do złamania regulaminu strefy zmian, ale nie można jednoznacznie wskazać winnego przekroczenia przepisów
+g)	Kiedy po rozpoczęciu meczu sędziowie zauważą u zawodników w strefie zmian niedozwolone przedmioty i wyposażenie (ochraniacze, pierścionki itp.)
 4.35	Sędziowie zezwolili dwóm osobom z drużyny A na wejście na boisko w celu udzielenia pomocy kontuzjowanemu zawodnikowi. Kto jest uprawniony do wejścia na boisko?
 a)	Tylko dwie osoby towarzyszące drużynie A
 b)	Dwie osoby towarzyszące drużynie A i dwie drużynie B
